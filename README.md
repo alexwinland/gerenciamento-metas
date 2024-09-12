@@ -1,4 +1,4 @@
-**##  Gerenciador de Metas: Seu Companheiro para Alcançar Seus Objetivos!**
+#Gerenciador de Metas: Seu Companheiro para Alcançar Seus Objetivos!
 
 **O que faz esse projeto?**
 
