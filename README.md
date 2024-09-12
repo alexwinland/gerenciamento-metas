@@ -1,5 +1,7 @@
 # Gerenciador de Metas: Seu Companheiro para Alcançar Seus Objetivos!
 
+<img src="imagem/Projeto.png">
+
 **O que faz esse projeto?**
 
 Esse projeto te ajuda a organizar suas metas de forma simples e divertida! Com ele, você pode:
